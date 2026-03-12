@@ -2,6 +2,12 @@
 
 A Real-time PPE compliance monitoring using YOLOv8 on edge hardware — built to prevent workplace accidents before they happen.
 
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00FFFF?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Edge AI](https://img.shields.io/badge/Edge-AI%20Inference-FF6F00?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 # Overview :-
 This project implements an end-to-end computer vision pipeline for automated worker safety monitoring in industrial environments. It detects Personal Protective Equipment (PPE) compliance in real time — identifying whether workers are wearing helmets, vests, and other required safety gear — and triggers an audible alarm when violations are detected.
 Designed for deployment on edge devices, the system runs inference locally without requiring cloud connectivity, making it suitable for factories, construction sites, and warehouses.
