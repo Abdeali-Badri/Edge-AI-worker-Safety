@@ -26,6 +26,7 @@ Designed for deployment on edge devices, the system runs inference locally witho
 
 # Project Structure :-
 
+```
 Edge-AI-worker-Safety/
 │
 ├── colab/                  # Google Colab training notebooks
@@ -36,6 +37,7 @@ Edge-AI-worker-Safety/
 ├── best.pt                 # Pre-trained YOLOv8 model weights
 ├── Alarm 2.mp3             # Audio alert triggered on PPE violation
 └── requirements.txt        # Python dependencies
+```
 
 # Getting Started Prerequisites :-
 1) Python 3.8+
@@ -82,6 +84,10 @@ The included best.pt file contains the trained YOLOv8 weights — the best check
 
 
 
-Author
-Abdeali Badri
+
+## Author
+
+**Abdeali Badri**
+
+🔗 [github.com/Abdeali-Badri](https://github.com/Abdeali-Badri)
 
