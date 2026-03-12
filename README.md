@@ -47,22 +47,22 @@ Edge-AI-worker-Safety/
 Installations:-
 
 # Clone the repository
-'''bash
+```bash
 git clone https://github.com/Abdeali-Badri/Edge-AI-worker-Safety.git
-'''
-'''bash
+```
+```bash
 cd Edge-AI-worker-Safety
-'''
+```
 
 # Install dependencies
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 
 # Run Real-Time Detection :-
-'''bash
+```bash
 python train.py
-'''
+```
 Or open the notebook in `colab/` and run it on Google Colab for GPU-accelerated training.
 
 # How It Works :-
