@@ -47,15 +47,23 @@ Edge-AI-worker-Safety/
 Installations:-
 
 # Clone the repository
+'''bash
 git clone https://github.com/Abdeali-Badri/Edge-AI-worker-Safety.git
+'''
+'''bash
 cd Edge-AI-worker-Safety
+'''
 
 # Install dependencies
+'''bash
 pip install -r requirements.txt
+'''
 
 # Run Real-Time Detection :-
+'''bash
 python train.py
-Or open the notebook in colab/ and run it on Google Colab for GPU-accelerated training.
+'''
+Or open the notebook in `colab/` and run it on Google Colab for GPU-accelerated training.
 
 # How It Works :-
 
@@ -65,7 +73,7 @@ Or open the notebook in colab/ and run it on Google Colab for GPU-accelerated tr
 4) Alarm Trigger — When a worker is detected without required PPE, an audio alarm fires immediately
 
 # Model :-
-The included best.pt file contains the trained YOLOv8 weights — the best checkpoint saved during training based on validation performance. You can swap this with a retrained model by running detect.py with your own dataset.
+The included `best.pt/` file contains the trained YOLOv8 weights — the best checkpoint saved during training based on validation performance. You can swap this with a retrained model by running `detect.py/` with your own dataset.
 
 # Use Cases :-
 
