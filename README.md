@@ -85,9 +85,8 @@ The included best.pt file contains the trained YOLOv8 weights — the best check
 
 
 
-## Author
+## Author :-
 
 **Abdeali Badri**
-
-🔗 [github.com/Abdeali-Badri](https://github.com/Abdeali-Badri)
+[github.com/Abdeali-Badri](https://github.com/Abdeali-Badri)
 
